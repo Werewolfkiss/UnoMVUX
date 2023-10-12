@@ -1,0 +1,10 @@
+{
+  "profiles": {
+	"UnoMVUX.Windows (Package)": {
+	  "commandName": "MsixPackage"
+	},
+	"UnoMVUX.Windows (Unpackaged)": {
+	  "commandName": "Project"
+	}
+  }
+}

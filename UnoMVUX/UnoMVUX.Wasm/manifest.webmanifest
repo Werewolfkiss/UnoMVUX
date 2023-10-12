@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "UnoMVUX",
+  "display": "standalone",
+  "name": "UnoMVUX",
+  "short_name": "UnoMVUX",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
